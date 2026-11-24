@@ -8,12 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RyuJirayu123/UtaLune/releases/download/v1.10.2/UtaLune-Setup-1.10.2.exe"><img src="media/download-windows.png" alt="ดาวน์โหลดตัวติดตั้ง Windows" width="256"></a>
-  <a href="https://github.com/RyuJirayu123/UtaLune/releases/download/v1.10.2/UtaLune-1.10.2.apk"><img src="media/download-android.png" alt="ดาวน์โหลด Android APK" width="256"></a>
+  <a href="https://github.com/RyuJirayu123/UtaLune/releases/download/windows-v1.10.4/UtaLune-Setup-1.10.4.exe"><img src="media/download-windows.png" alt="ดาวน์โหลดตัวติดตั้ง Windows" width="256"></a>
+  <a href="https://github.com/RyuJirayu123/UtaLune/releases/download/v1.10.3/UtaLune-1.10.3.apk"><img src="media/download-android.png" alt="ดาวน์โหลด Android APK" width="256"></a>
 </p>
 
 <p align="center">
-  <strong>v1.10.2</strong> · Windows 10/11 แบบ 64-bit · Android 8.0 ขึ้นไป<br>
+  <strong>Windows v1.10.4</strong> · Windows 10/11 แบบ 64-bit<br>
+  <strong>Android v1.10.3</strong> · Android 8.0 ขึ้นไป<br>
   <a href="https://github.com/RyuJirayu123/UtaLune/releases/latest">มีอะไรใหม่</a> ·
   <a href="https://github.com/RyuJirayu123/UtaLune/releases">ดูทุกรุ่น</a> ·
   <a href="https://github.com/RyuJirayu123/UtaLune/issues">แจ้งปัญหา</a>
@@ -54,7 +55,7 @@
 <details>
 <summary><strong>ติดตั้งบน Windows</strong></summary>
 
-1. [ดาวน์โหลด UtaLune-Setup-1.10.2.exe](https://github.com/RyuJirayu123/UtaLune/releases/download/v1.10.2/UtaLune-Setup-1.10.2.exe) แล้วเปิดไฟล์
+1. [ดาวน์โหลด UtaLune-Setup-1.10.2.exe](https://github.com/RyuJirayu123/UtaLune/releases/download/windows-v1.10.4/UtaLune-Setup-1.10.4.exe) แล้วเปิดไฟล์
 2. ทำตามหน้าต่างติดตั้ง ชุดติดตั้งรวม mpv และ yt-dlp แล้ว
 3. เปิด Uta Lune แล้ววางลิงก์ YouTube เพื่อเพิ่มเพลง
 
@@ -67,7 +68,7 @@ Windows อาจแสดง SmartScreen เนื่องจากตัว�
 <details>
 <summary><strong>ติดตั้งบน Android</strong></summary>
 
-1. [ดาวน์โหลด UtaLune-1.10.2.apk](https://github.com/RyuJirayu123/UtaLune/releases/download/v1.10.2/UtaLune-1.10.2.apk) บนมือถือ
+1. [ดาวน์โหลด UtaLune-1.10.2.apk](https://github.com/RyuJirayu123/UtaLune/releases/download/v1.10.3/UtaLune-1.10.3.apk) บนมือถือ
 2. เปิดไฟล์และอนุญาตการติดตั้งแอปจากแหล่งนี้เมื่อ Android ขอ
 3. เปิด Uta Lune แล้วเพิ่มเพลงด้วยลิงก์ YouTube
 
